@@ -22,4 +22,5 @@ For ingredient prediction, weighted precision is 0.8006891068115558, weighted re
 a) Input (product category and key ingredient columns dropped **scrapped_data.csv** file)<br>
 
 B) Output (**output_data.csv**)
+
 ![bandicam 2021-12-26 01-06-22-299](https://user-images.githubusercontent.com/71775151/147392366-a950ae36-153e-4f33-8d5c-b16b1914d845.jpg)
