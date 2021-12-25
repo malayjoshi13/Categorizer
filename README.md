@@ -8,5 +8,7 @@ Lets see the two files used in this project:
 This file scrapes data (like Product Name, Product Link, Rating, Reviews, MRP, Pack Size, Discount/Offers running on the product) from mamaearth's website and save it in csv format file **scrapped_data.csv**.
 
 a) Input 
+![bandicam 2021-12-26 00-41-11-436](https://user-images.githubusercontent.com/71775151/147391998-b9e1621f-a785-400f-8711-c4b20d722230.jpg)
 
 B) Output
+![bandicam 2021-12-26 00-41-50-033](https://user-images.githubusercontent.com/71775151/147392009-e5f9309b-ce44-4c61-9494-bd047c44b2ce.jpg)
