@@ -23,4 +23,4 @@ a) Input (product category and key ingredient columns dropped **scrapped_data.cs
 
 B) Output (**output_data.csv**)
 
-![bandicam 2021-12-26 01-06-22-299](https://user-images.githubusercontent.com/71775151/147392366-a950ae36-153e-4f33-8d5c-b16b1914d845.jpg)
+![bandicam 2021-12-26 01-19-26-337](https://user-images.githubusercontent.com/71775151/147392577-4b9a53bd-9a16-48a5-80ac-00dee52ffa93.jpg)
