@@ -7,7 +7,7 @@ Lets see the two files used in this project:
 ## 1) web_scraping.py
 This file scrapes data (like Product Name, Product Link, Rating, Reviews, MRP, Pack Size, Discount/Offers running on the product, Product Category, Ingredient) from mamaearth's website and save it in csv format file **scrapped_data.csv**.
 
-a) Input (mamaearth's **webpage** on link 'https://mamaearth.in/product-category/beauty')
+A) Input (mamaearth's **webpage** on link 'https://mamaearth.in/product-category/beauty')
 ![bandicam 2021-12-26 00-41-11-436](https://user-images.githubusercontent.com/71775151/147391998-b9e1621f-a785-400f-8711-c4b20d722230.jpg)
 
 B) Output (**scrapped_data.csv** file)
@@ -19,5 +19,7 @@ This file first try to learn csv data given by web_scraping.py file using variou
 
 For ingredient prediction, weighted precision is 0.8006891068115558, weighted recall is 0.8367346938775511 and weighted fscore is 0.8156537340210809. While for category prediction, weighted precision is 0.673469387755102, weighted recall is 0.6530612244897959, weighted fscore is 0.6288806431663574.
 
-a) Input (product category and key ingredient columns dropped **scrapped_data.csv** file)
-b) Output (**output_data.csv**)
+a) Input (product category and key ingredient columns dropped **scrapped_data.csv** file)<br>
+
+B) Output (**output_data.csv**)
+![bandicam 2021-12-26 01-06-22-299](https://user-images.githubusercontent.com/71775151/147392366-a950ae36-153e-4f33-8d5c-b16b1914d845.jpg)
